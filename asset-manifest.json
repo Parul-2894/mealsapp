@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mealsapp/static/css/main.cafab285.css",
+    "main.js": "/mealsapp/static/js/main.ce8fa7c9.js",
+    "static/media/youtube.png": "/mealsapp/static/media/youtube.848f73ee85b02f962de7.png",
+    "index.html": "/mealsapp/index.html",
+    "main.cafab285.css.map": "/mealsapp/static/css/main.cafab285.css.map",
+    "main.ce8fa7c9.js.map": "/mealsapp/static/js/main.ce8fa7c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafab285.css",
+    "static/js/main.ce8fa7c9.js"
+  ]
+}
